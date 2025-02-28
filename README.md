@@ -4,6 +4,7 @@
 
 - Neste projeto usei a API pública do Github para trazer informações valiosas dos usuários com uma simples busca
 - Também foi utilizada a interface gráfica básica do Java, o JOptionPane
+- Esse projeto tem uso do Gson, a API de transferencia de Jsons do Google
 
 ###
 
